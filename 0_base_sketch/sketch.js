@@ -52,13 +52,7 @@ class Feature {
 
 var gui;
 
-let settings = {
-	border: 400,
-};
 
-let features = [];
-let field;
-let pg;
 
 function preload() {
 	field = loadImage('img/field.png');
